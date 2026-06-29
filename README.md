@@ -15,7 +15,7 @@ I don't write production code. I direct the people and programs that do, and I b
 - **Network Modernization** — Drove modernization across 100+ Radio Access Network offices, cutting latency by 65%.
 - **Budget & Capital Oversight** — Managed $40M–$55M annual technology budgets; generated $500M in cost avoidance; influenced $12B in capital investment decisions.
 
-15+ years at AT&T, Apple 
+15+ years at AT&T, Apple B.S., Business Administration — Cal State East Bay.
 
 ---
 
@@ -23,7 +23,7 @@ I don't write production code. I direct the people and programs that do, and I b
 
 I wrote *AI Made Easy for Parents* (ALIVE Book Publishing) to translate AI for non-technical audiences. It reached **#4 in Generative AI on Amazon**, and the work has been featured on **NBC Bay Area News** and **KOIT 96.5**.
 
-**[Get the book on Amazon →] https://a.co/d/07ig4Xku **
+**[Get the book on Amazon →](https://a.co/d/07ig4Xku)**
 
 ---
 
